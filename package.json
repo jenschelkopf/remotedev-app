@@ -49,7 +49,7 @@
     "babel-preset-stage-0": "^6.3.13",
     "chromedriver": "^2.20.0",
     "co-mocha": "^1.1.2",
-    "del": "^2.2.0",
+    "del": "^8.0.0",
     "electron-builder": "^2.5.0",
     "electron-debug": "^0.5.1",
     "electron-packager": "^5.2.0",
