@@ -64,7 +64,7 @@
     "gulp-mocha": "^2.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.7",
-    "gulp-zip": "^3.0.2",
+    "gulp-zip": "^6.1.0",
     "jsdom": "^9.3.0",
     "mocha": "^2.3.4",
     "mock-local-storage": "^1.0.2",
